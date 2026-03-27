@@ -45,14 +45,14 @@ This project aims to assess diabetes risk by analyzing patient health indicators
 
 ## 📂 Project Structure
 
-
+```
 ├── app.py
 ├── CPP.pkl
 ├── clean_data.csv
 ├── implementation.ipynb
 ├── requirements.txt
 ├── README.md
-
+```
 
 ---
 
