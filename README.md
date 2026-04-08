@@ -1,4 +1,4 @@
-# 🩺 Diabetes Risk Prediction App
+# 🩺 Diabetes Risk Prediction 
 
 An end-to-end Machine Learning project that predicts whether a person is **High Risk** or **Low Risk of Diabetes** using health parameters and a deployed Streamlit web application.
 
@@ -68,4 +68,4 @@ This project aims to assess diabetes risk by analyzing patient health indicators
 
 ## 👨‍💻 Author
 
-Chaitanya Pitambare
+Siddheya Pitambare
